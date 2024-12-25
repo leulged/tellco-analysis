@@ -1,0 +1,58 @@
+,Data Type,Unique Values
+Bearer Id,float64,134708
+Start,object,9997
+Start ms,float64,1000
+End,object,6403
+End ms,float64,1000
+Dur. (ms),float64,89525
+IMSI,float64,107265
+MSISDN/Number,float64,106856
+IMEI,float64,107270
+Last Location Name,object,45547
+Avg RTT DL (ms),float64,2130
+Avg RTT UL (ms),float64,722
+Avg Bearer TP DL (kbps),float64,41753
+Avg Bearer TP UL (kbps),float64,14528
+TCP DL Retrans. Vol (Bytes),float64,54399
+TCP UL Retrans. Vol (Bytes),float64,35120
+DL TP < 50 Kbps (%),float64,100
+50 Kbps < DL TP < 250 Kbps (%),float64,84
+250 Kbps < DL TP < 1 Mbps (%),float64,73
+DL TP > 1 Mbps (%),float64,85
+UL TP < 10 Kbps (%),float64,98
+10 Kbps < UL TP < 50 Kbps (%),float64,85
+50 Kbps < UL TP < 300 Kbps (%),float64,68
+UL TP > 300 Kbps (%),float64,63
+HTTP DL (Bytes),float64,63527
+HTTP UL (Bytes),float64,59942
+Activity Duration DL (ms),float64,102560
+Activity Duration UL (ms),float64,106292
+Dur. (ms).1,float64,122871
+Handset Manufacturer,object,170
+Handset Type,object,1396
+Nb of sec with 125000B < Vol DL,float64,6458
+Nb of sec with 1250B < Vol UL < 6250B,float64,3398
+Nb of sec with 31250B < Vol DL < 125000B,float64,5755
+Nb of sec with 37500B < Vol UL,float64,1104
+Nb of sec with 6250B < Vol DL < 31250B,float64,6172
+Nb of sec with 6250B < Vol UL < 37500B,float64,1710
+Nb of sec with Vol DL < 6250B,float64,22270
+Nb of sec with Vol UL < 1250B,float64,22976
+Social Media DL (Bytes),float64,146856
+Social Media UL (Bytes),float64,59078
+Google DL (Bytes),float64,149024
+Google UL (Bytes),float64,147267
+Email DL (Bytes),float64,146916
+Email UL (Bytes),float64,138699
+Youtube DL (Bytes),float64,149547
+Youtube UL (Bytes),float64,149477
+Netflix DL (Bytes),float64,149518
+Netflix UL (Bytes),float64,149490
+Gaming DL (Bytes),float64,149983
+Gaming UL (Bytes),float64,149316
+Other DL (Bytes),float64,149986
+Other UL (Bytes),float64,149284
+Total UL (Bytes),float64,149728
+Total DL (Bytes),float64,149987
+total_data,float64,149987
+duration_decile,float64,5
